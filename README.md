@@ -54,7 +54,7 @@ This repository contains the project architecture, AWS implementation screenshot
 ![Cognito Login](screenshots/04-cognito-login.png)
 
 ### 5. API Gateway
-![API Gateway](screenshots/04-api-gateway.png)
+![API Gateway](screenshots/05-api-gateway.png)
 
 ### 6. CloudWatch Logs
 ![CloudWatch Logs](screenshots/06-cloudwatch-logs.png)
